@@ -51,7 +51,7 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 **M.F.G Pengueen UG, Brandenburg**  
 **July 2022 - September 2022**
 
-- Developed **scalable web applications** using **Java**, **JavaScript**, and **React** 🔥
+- Developed **scalable web applications** using **JavaScript**, **React** and **PostgreSQL** 🔥
 - Collaborated with **cross-functional teams** to deliver high-quality solutions 🏆
 - Conducted **code reviews** and adhered to best practices for **clean code** ✨
 
@@ -69,7 +69,7 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 
 - Worked in the **Innovation Team** within the **Market Innovation and Integration Division** 💡
 - Focused on **crypto**, **blockchain**, and **new payment solutions** 💳💻
-- Programmed innovative **visualizations** of information using **Java** and **NodeJS** for "knowledge trees" 🌳
+- Programmed innovative **visualizations** of information using **JavaScript** and **NodeJS** for "knowledge trees" 🌳
 - Contributed to presenting team work in an innovative way for **internal ECB meetings** and **euro area central banks** 💼
 - Developed a solid understanding of **financial technology** and **emerging payment systems** 🔗
 
