@@ -1,94 +1,93 @@
-# Marvin Buth
+# 👨‍💻 **Marvin Buth** 
 
-## SOFTWARE ENGINEER
+## 🛠️ **SOFTWARE ENGINEER**
 
-### Zielsetzung
-Erfahrener Software Engineer mit fundiertem Hintergrund in Full-Stack-Entwicklung, Cloud-Computing und agilen Methoden. Kompetent in der Entwicklung skalierbarer und innovativer Lösungen zur effizienten und effektiven Erfüllung von Geschäftsanforderungen.
-
----
-
-### Kontakt
-- **Email**: mail@marvinbuth.de
-- **Adresse**: Rosenberger Str. 2, 60313 Frankfurt am Main
-- **Telefon**: +4915259682054
+### 🎯 **Objective**
+Experienced Software Engineer with a passion for **full-stack development**, **cloud computing**, and **agile methodologies**. I create **scalable**, **innovative** solutions that help businesses thrive! 💡🚀
 
 ---
 
-### Kompetenzen
-- JavaScript
-- PHP
-- Git
-- Agile Projektmanagement
-- Java
-- Test Driven Development
-- ReactJS
-- VueJS
-- Mobile App Entwicklung
-- Docker
+### 📞 **Contact**
+- **Email**: [mail@marvinbuth.de](mailto:mail@marvinbuth.de)
+- **Address**: Rosenberger Str. 2, 60313 Frankfurt am Main, Germany 🇩🇪
+- **Phone**: +4915259682054 📱
 
 ---
 
-### Sprachkenntnisse
-- **Deutsch**: Muttersprache
-- **Englisch**: Fortgeschritten
-- **Französisch**: Gute Kenntnisse
+### 💼 **Skills**
+- **JavaScript** 🔧
+- **PHP** 🖥️
+- **Git** 🧑‍💻
+- **Agile Project Management** 📊
+- **Java** ☕
+- **Test-Driven Development** 🧪
+- **ReactJS** ⚛️
+- **VueJS** 🌿
+- **Mobile App Development** 📱
+- **Docker** 🚢
 
 ---
 
-## Berufserfahrung
+### 🌍 **Languages**
+- **German**: Native 🇩🇪
+- **English**: Advanced 🗣️
+- **French**: Proficient 🇫🇷
 
-### Software Developer
+---
+
+## 💼 **Professional Experience**
+
+### 🖥️ **Software Developer**
 **Pickware GmbH, Darmstadt**  
-**September 2023 - März 2024**
+**September 2023 - March 2024**
 
-- An mehreren B2B-Softwarelösungen zur Verwaltung von Logistik im E-Commerce gearbeitet.
-- PHP, Symfony, JavaScript, Vue.JS, JEST, Shopware etc.
-- Code-Reviews und Unit-Tests durchgeführt, um hochwertige Softwareergebnisse sicherzustellen.
-- Mit funktionsübergreifenden Teams zusammengearbeitet, um Anforderungen zu analysieren und Lösungen umzusetzen.
-- Erfahren in agilen Entwicklungsmethoden und Versionskontrollsystemen wie Git.
+- Worked on **B2B software** solutions for **e-commerce logistics** 📦
+- Used **PHP**, **Symfony**, **JavaScript**, **Vue.JS**, **JEST**, **Shopware**, etc. 💻
+- Conducted **code reviews** and **unit testing** to ensure high-quality software 💪
+- Collaborated with **cross-functional teams** to turn requirements into actionable solutions 🛠️
+- Embraced **agile methodologies** and **Git** for version control 🌀
 
-### Software Engineer
+### 💻 **Software Engineer**
 **M.F.G Pengueen UG, Brandenburg**  
-**Juli 2022 - September 2022**
+**July 2022 - September 2022**
 
-- Skalierbare Webanwendungen mit Technologien wie Java, JavaScript und React entwickelt.
-- Mit funktionsübergreifenden Teams zusammengearbeitet, um hochwertige Softwarelösungen zu liefern.
-- Code-Reviews durchgeführt und Best Practices für sauberen und wartbaren Code implementiert.
+- Developed **scalable web applications** using **Java**, **JavaScript**, and **React** 🔥
+- Collaborated with **cross-functional teams** to deliver high-quality solutions 🏆
+- Conducted **code reviews** and adhered to best practices for **clean code** ✨
 
-### Software Engineer and Project Manager
+### 🛠️ **Software Engineer and Project Manager**
 **Contyfy Network, Remote**  
-**Januar 2020 - Januar 2021**
+**January 2020 - January 2021**
 
-- Beratung zu technischen Budgets, Serverinfrastruktur, Sicherheit und Verschlüsselung beim Einsatz eines Zahlungsanbieters (Stripe).
-- Skalierbaren, wartbaren Code für Web- und mobile Anwendungen entwickelt.
-- Kundenbeziehungen gepflegt und technische Anforderungen an nicht-technische Stakeholder kommuniziert.
+- Consulted on **technical budgets**, **server infrastructure**, **security**, and **encryption** 🔒
+- Developed **scalable** and **maintainable** code for both **web** and **mobile apps** 📲
+- Managed **customer relationships** and communicated **technical needs** to **non-technical stakeholders** 🗣️
 
-### Crewmitglied
-**McDonald's**  
-**August 2019 - Januar 2021**
-
-- Arbeit im Rotationssystem mit verschiedenen Stationen zur Betreuung.
-- Einführung in standardisierte Arbeitsprozesse.
-
-### Internship
+### 🏛️ **Internship**
 **European Central Bank, Frankfurt am Main**  
-**März 2018 - April 2018**
+**March 2018 - April 2018**
+
+- Worked in the **Innovation Team** within the **Market Innovation and Integration Division** 💡
+- Focused on **crypto**, **blockchain**, and **new payment solutions** 💳💻
+- Programmed innovative **visualizations** of information using **Java** and **NodeJS** for "knowledge trees" 🌳
+- Contributed to presenting team work in an innovative way for **internal ECB meetings** and **euro area central banks** 💼
+- Developed a solid understanding of **financial technology** and **emerging payment systems** 🔗
 
 ---
 
-## Ausbildung
-**Informatik Bachelor of Science**  
-**Johann-Wolfgang-Goethe Universität, Frankfurt am Main**  
-**2023 - aktuell**
+## 🎓 **Education**
+**Bachelor of Science in Computer Science**  
+**Johann Wolfgang Goethe University, Frankfurt am Main**  
+**2023 - Present** 📚
 
 ---
 
-## Projekte
+## 🚀 **Projects**
 
-### IsItGOLD?
-Eine KI-basierte mobile App, die Edelmetalle wie Gold in einem Objekt durch die Handykamera erkennen und eine Schätzung des Objektwertes geben kann.  
+### 💎 **IsItGOLD?**
+An **AI-based mobile app** that detects **precious metals** like **gold** using your phone's camera 📸 and gives an estimate of its value 💰.  
 [Learn more here](https://isitgold.flutterflow.app/app-information)
 
-### Contyfy (Offline)
-Ein Social-Media-Netzwerk, das Content-Erstellern ermöglicht, für das Ansehen ihrer Inhalte entweder ein monatliches Abonnement oder einen einmaligen Kaufpreis zu verlangen.  
+### 🧑‍🤝‍🧑 **Contyfy (Offline)**
+A **social media network** that lets **content creators** charge for access to their content either through **monthly subscriptions** or **one-time payments** 💵.  
 [Repository](https://github.com/MarvinButh/Contyfy.com)
