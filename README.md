@@ -8,9 +8,9 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 ---
 
 ### 📞 **Contact**
-- **Email**: [mail@marvinbuth.de](mailto:mail@marvinbuth.de)
-- **Address**: Rosenberger Str. 2, 60313 Frankfurt am Main, Germany 🇩🇪
-- **Phone**: +4915259682054 📱
+- **Email**: [marvinbuth3@gmail.com](mailto:marvinbuth3@gmail.com)
+- **Location**: Frankfurt am Main, Germany 🇩🇪
+- **Phone**: Upon request 📱
 
 ---
 
@@ -78,7 +78,7 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 ## 🎓 **Education**
 **Bachelor of Science in Computer Science**  
 **Johann Wolfgang Goethe University, Frankfurt am Main**  
-**2023 - Present** 📚
+**2023 - 2025** 📚
 
 ---
 
@@ -86,7 +86,7 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 
 ### 💎 **IsItGOLD?**
 An **AI-based mobile app** that detects **precious metals** like **gold** using your phone's camera 📸 and gives an estimate of its value 💰.  
-[Learn more here](https://isitgold.flutterflow.app/app-information)
+[Learn more here](https://isit.gold/)
 
 ### 🧑‍🤝‍🧑 **Contyfy (Offline)**
 A **social media network** that lets **content creators** charge for access to their content either through **monthly subscriptions** or **one-time payments** 💵.  
