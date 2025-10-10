@@ -8,7 +8,8 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 ---
 
 ### 📞 **Contact**
-- **Email**: [marvinbuth3@gmail.com](mailto:marvinbuth3@gmail.com)
+- **Email**: [mail@marvinbuth.dev](mailto:mail@marvinbuth.dev)
+- **CV**: [cv.marvinbuth.dev](https://cv.marvinbuth.dev)
 - **Location**: Frankfurt am Main, Germany 🇩🇪
 - **Phone**: Upon request 📱
 
