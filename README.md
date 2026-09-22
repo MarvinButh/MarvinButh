@@ -5,7 +5,7 @@
 ### 🎯 **About**
 Digital workplace and endpoint engineer working in the **European Commission** service environment, currently assigned to the **EU Anti-Money Laundering Authority (AMLA)** in Frankfurt am Main. 🇪🇺
 I work at **Level 3** on endpoint provisioning, **Microsoft Intune** and **Windows Autopilot** investigations and **PowerShell**-automated secure builds, and I coordinate incidents and services across users, vendors and **DG DIGIT** infrastructure, network and logistics teams. 🔧
-I design the processes behind the service too — **13 SOPs**, **52 ServiceNow templates** and a technical onboarding programme that another agent now delivers independently. 📋
+As AMLA’s **first IT HUB agent** I built the service from the ground up — it had no documented procedures when I arrived. I authored the operating model it runs on: **13 SOPs**, **52 ServiceNow templates** and a technical onboarding programme that another agent now delivers independently. 📋
 An earlier background in **full-stack software engineering** underpins the automation and tooling I build today. 🚀
 
 ---
@@ -26,7 +26,7 @@ An earlier background in **full-stack software engineering** underpins the autom
 
 **Service Management & Coordination** 🎫
 - **ServiceNow** · L2–L3 Incident Resolution · Service Coordination · **Vendor Management** · Structured Escalation
-- SOP & Template Design · Asset Lifecycle Support · VIP & Business-Critical Support
+- SOP & Template Design · **Asset & Inventory Management** · Hardware Demand Planning · VIP & Business-Critical Support
 
 **Consulting & Enablement** 🗣️
 - Requirements Analysis · Stakeholder Coordination · Microsoft 365 Solution Concepts
@@ -51,16 +51,19 @@ An earlier background in **full-stack software engineering** underpins the autom
 **European Union Anti-Money Laundering Authority (AMLA), Frankfurt am Main**
 **September 2025 – Present** · Freelance
 
-> Formal assignment: IT HUB Agent within the European Commission EUSS environment · Independent consultant via Brayton Luxembourg within an Atos-managed service
+> First IT HUB agent appointed at AMLA · Formal assignment: IT HUB Agent within the European Commission EUSS environment · Independent consultant via Brayton Luxembourg within an Atos-managed service
 
 - Coordinate services and incidents across **users, external vendors and DG DIGIT infrastructure, network and logistics teams**, owning cases from intake through to resolution or structured escalation 🤝
 - Engineer and troubleshoot endpoints at **Level 2–3**: Windows provisioning, **Intune** and **Autopilot** operations, software deployment and root-cause analysis 🔍
-- Designed and authored the **IT HUB operating model** — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
+- Established the **IT HUB operating model** for a service that had **no documented procedures** in place — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
 - Built the technical **onboarding programme** — client-approved 16-slide deck and handout — delivered it to newcomers and handed it over as a repeatable process 🎓
 - Translate operational requirements into **Microsoft 365 solution concepts** covering SharePoint, permissions, secure collaboration and reporting 🗂️
 - Configured and operate the **uniFLOW** print environment. Took ownership of a print-service fault open for **over two months** without progress, convened the print vendor and the network provider **within a week**, and led a joint session that resolved it in **45 minutes** — then documented the resolution path and recommended a configuration change to prevent recurrence 🖨️
 - Provide **VIP, meeting-room and business-critical support** alongside clear technical documentation and user guidance ⚡
+- Built and own the **device inventory** covering every AMLA user device and the mobile fleet — still the working record in daily use — and advise on when to order replacement hardware 📦
+- Run **mobile device onboarding** and authored its standard operating procedure, currently in testing 📱
 - **936 interactions** handled and **784 tickets** resolved as of September 2026 📊
+- **100% positive satisfaction rating** from the end client, consistently reflected in service discussions with **DG DIGIT** and confirmable there on request ⭐
 
 ### 🧩 **IT Consultant & Software Developer**
 **Nterra Integrations GmbH, Darmstadt**
