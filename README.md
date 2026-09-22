@@ -56,14 +56,13 @@ An earlier background in **full-stack software engineering** underpins the autom
 - Coordinate services and incidents across **users, external vendors and DG DIGIT infrastructure, network and logistics teams**, owning cases from intake through to resolution or structured escalation 🤝
 - Engineer and troubleshoot endpoints at **Level 2–3**: Windows provisioning, **Intune** and **Autopilot** operations, software deployment and root-cause analysis 🔍
 - Established the **IT HUB operating model** for a service that had **no documented procedures** in place — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
-- Built the technical **onboarding programme** — client-approved 16-slide deck and handout — delivered it to newcomers and handed it over as a repeatable process 🎓
+- Built the technical **onboarding programme** — client-approved **16-slide deck** and handout — delivered it to newcomers and handed it over as a repeatable process; a second agent has since delivered a full onboarding independently from the materials 🎓
 - Translate operational requirements into **Microsoft 365 solution concepts** covering SharePoint, permissions, secure collaboration and reporting 🗂️
 - Configured and operate the **uniFLOW** print environment. Took ownership of a print-service fault open for **over two months** without progress, convened the print vendor and the network provider **within a week**, and led a joint session that resolved it in **45 minutes** — then documented the resolution path and recommended a configuration change to prevent recurrence 🖨️
 - Provide **VIP, meeting-room and business-critical support** alongside clear technical documentation and user guidance ⚡
 - Built and own the **device inventory** covering every AMLA user device and the mobile fleet — still the working record in daily use — and advise on when to order replacement hardware 📦
 - Run **mobile device onboarding** and authored its standard operating procedure, currently in testing 📱
-- **936 interactions** handled and **784 tickets** resolved as of September 2026 📊
-- **100% positive satisfaction rating** from the end client, consistently reflected in service discussions with **DG DIGIT** and confirmable there on request ⭐
+- **936 interactions** handled and **784 tickets** resolved as of September 2026 — with a **100% positive satisfaction rating** from the end client, consistently reflected in service discussions with **DG DIGIT** and confirmable there on request 📊
 
 ### 🧩 **IT Consultant & Software Developer**
 **Nterra Integrations GmbH, Darmstadt**
