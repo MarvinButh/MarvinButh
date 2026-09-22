@@ -1,9 +1,12 @@
-# 👨‍💻 **Marvin Buth** 
+# 👨‍💻 **Marvin Buth**
 
-## 🛠️ **SOFTWARE ENGINEER**
+## 🖥️ **DIGITAL WORKPLACE ENGINEER — ENDPOINT MANAGEMENT & SERVICE COORDINATION**
 
-### 🎯 **Objective**
-Experienced Software Engineer with a passion for **full-stack development**, **cloud computing**, and **agile methodologies**. I create **scalable**, **innovative** solutions that help businesses thrive! 💡🚀
+### 🎯 **About**
+Digital workplace and endpoint engineer working in the **European Commission** service environment, currently assigned to the **EU Anti-Money Laundering Authority (AMLA)** in Frankfurt am Main. 🇪🇺
+I work at **Level 3** on endpoint provisioning, **Microsoft Intune** and **Windows Autopilot** investigations and **PowerShell**-automated secure builds, and I coordinate incidents and services across users, suppliers and specialist infrastructure teams. 🔧
+I design the processes behind the service too — **13 SOPs**, **52 ServiceNow templates** and a technical onboarding programme that another agent now delivers independently. 📋
+An earlier background in **full-stack software engineering** underpins the automation and tooling I build today. 🚀
 
 ---
 
@@ -16,79 +19,111 @@ Experienced Software Engineer with a passion for **full-stack development**, **c
 ---
 
 ### 💼 **Skills**
-- **JavaScript** 🔧
-- **PHP** 🖥️
-- **Git** 🧑‍💻
-- **Agile Project Management** 📊
-- **Java** ☕
-- **Test-Driven Development** 🧪
-- **ReactJS** ⚛️
-- **VueJS** 🌿
-- **Mobile App Development** 📱
-- **Docker** 🚢
+
+**Digital Workplace & Endpoint** 🖥️
+- **Windows** · **Microsoft Intune** · **Windows Autopilot** · Device Provisioning · Endpoint Hardening
+- **Microsoft 365** · SharePoint · Teams · OneDrive · Authenticator
+
+**Service Management & Coordination** 🎫
+- **ServiceNow** · L2–L3 Incident Resolution · Service Coordination · Structured Escalation
+- SOP & Template Design · Asset Lifecycle Support · VIP & Business-Critical Support
+
+**Consulting & Enablement** 🗣️
+- Requirements Analysis · Stakeholder Coordination · Microsoft 365 Solution Concepts
+- Process Design · Technical Documentation · Onboarding & User Enablement
+
+**Software Engineering & Automation** 🧑‍💻
+- **PowerShell** · **TypeScript** · **JavaScript** · **Node.js** · **React** · **Vue.js**
+- **PHP** · **Symfony** · **Python** · REST APIs · **PostgreSQL** · **Docker** · **Git**
 
 ---
 
 ### 🌍 **Languages**
 - **German**: Native 🇩🇪
-- **English**: Advanced 🗣️
-- **French**: Proficient 🇫🇷
+- **English**: Advanced professional proficiency 🗣️
+- **French**: Professional working proficiency 🇫🇷
 
 ---
 
 ## 💼 **Professional Experience**
 
-### 🖥️ **Software Developer**
-**Pickware GmbH, Darmstadt**  
-**September 2023 - March 2024**
+### 🏛️ **Digital Workplace Engineer — Endpoint Management & Service Coordination**
+**European Union Anti-Money Laundering Authority (AMLA), Frankfurt am Main**
+**September 2025 – Present** · Freelance
 
-- Worked on **B2B software** solutions for **e-commerce logistics** 📦
-- Used **PHP**, **Symfony**, **JavaScript**, **Vue.JS**, **JEST**, **Shopware**, etc. 💻
-- Conducted **code reviews** and **unit testing** to ensure high-quality software 💪
-- Collaborated with **cross-functional teams** to turn requirements into actionable solutions 🛠️
-- Embraced **agile methodologies** and **Git** for version control 🌀
+> Formal assignment: IT HUB Agent within the European Commission EUSS environment · Independent consultant via Brayton Luxembourg within an Atos-managed service
+
+- Coordinate services and incidents across **users, suppliers and specialist infrastructure teams**, owning cases from intake through to resolution or structured escalation 🤝
+- Engineer and troubleshoot endpoints at **Level 2–3**: Windows provisioning, **Intune** and **Autopilot** operations, software deployment and root-cause analysis 🔍
+- Designed and authored the **IT HUB operating model** — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
+- Built the technical **onboarding programme** — client-approved 16-slide deck and handout — delivered it to newcomers and handed it over as a repeatable process 🎓
+- Translate operational requirements into **Microsoft 365 solution concepts** covering SharePoint, permissions, secure collaboration and reporting 🗂️
+- Provide **VIP, meeting-room and business-critical support** alongside clear technical documentation and user guidance ⚡
+- **936 interactions** handled and **784 tickets** resolved as of September 2026 📊
+
+### 🧩 **IT Consultant & Software Developer**
+**Nterra Integrations GmbH**
+**May 2024 – July 2024**
+
+- **Full-stack** software delivery, requirements coordination and **Scrum** facilitation in a consulting environment 🛠️
+
+### 🖥️ **Software Developer**
+**Pickware GmbH, Darmstadt**
+**September 2023 – March 2024** · Working student
+
+- Worked on **B2B software** for **e-commerce logistics** 📦
+- **PHP**, **Symfony**, **Vue.js**, **PostgreSQL**, REST APIs, **JEST**, **Shopware** 💻
+- Production debugging, **code reviews** and **unit testing** 💪
+- **ERP synchronisation** services and cross-functional collaboration 🛠️
 
 ### 💻 **Software Engineer**
-**M.F.G Pengueen UG, Brandenburg**  
-**July 2022 - September 2022**
+**M.F.G. Pengueen UG, Brandenburg**
+**July 2022 – September 2022**
 
 - Developed **scalable web applications** using **JavaScript**, **React** and **PostgreSQL** 🔥
-- Collaborated with **cross-functional teams** to deliver high-quality solutions 🏆
 - Conducted **code reviews** and adhered to best practices for **clean code** ✨
 
-### 🛠️ **Software Engineer and Project Manager**
-**Contyfy Network, Remote**  
-**January 2020 - January 2021**
+### 🛠️ **Software Engineer & Project Manager**
+**Contyfy Network UG, Remote**
+**January 2020 – January 2021**
 
-- Consulted on **technical budgets**, **server infrastructure**, **security**, and **encryption** 🔒
-- Developed **scalable** and **maintainable** code for both **web** and **mobile apps** 📲
-- Managed **customer relationships** and communicated **technical needs** to **non-technical stakeholders** 🗣️
+- **IT planning and architecture**, **server infrastructure**, **security** and **encryption** 🔒
+- Vendor coordination and technical budgeting for the platform build 💰
+- Managed customer relationships and communicated technical needs to **non-technical stakeholders** 🗣️
 
-### 🏛️ **Internship**
-**European Central Bank, Frankfurt am Main**  
-**March 2018 - April 2018**
+### 🏦 **Trainee, Innovation Team**
+**European Central Bank, Frankfurt am Main**
+**11 – 22 March 2019** · Traineeship
 
-- Worked in the **Innovation Team** within the **Market Innovation and Integration Division** 💡
-- Focused on **crypto**, **blockchain**, and **new payment solutions** 💳💻
-- Programmed innovative **visualizations** of information using **JavaScript** and **NodeJS** for "knowledge trees" 🌳
-- Contributed to presenting team work in an innovative way for **internal ECB meetings** and **euro area central banks** 💼
-- Developed a solid understanding of **financial technology** and **emerging payment systems** 🔗
+- Programmed **"knowledge tree"** visualisations of information in **Java** and **Node.js** 🌳
+- Visualisations were used in presentations within the **ECB** and the **euro area central bank community** 💼
+- *Letter of reference available on request* 📄
+
+### 🧑‍💻 **Freelance IT Consultant & Software Engineer**
+**Self-employed, Frankfurt am Main**
+**August 2017 – Present** · Freelance
+
+- Independent delivery of **web, mobile, cloud, API and automation** solutions 🌐
+- Ownership of technical delivery, client communication and project steering 📊
 
 ---
 
-## 🎓 **Education**
-**Bachelor of Science in Computer Science**  
-**Johann Wolfgang Goethe University, Frankfurt am Main**  
-**2023 - 2025** 📚
+## 🎓 **Education & Certifications**
+
+**Computer Science Studies** 📚
+**Johann Wolfgang Goethe University, Frankfurt am Main**
+**October 2023 – September 2025**
+
+**Microsoft 365 Endpoint Administrator (MD-102)** — in preparation 🎯
 
 ---
 
 ## 🚀 **Projects**
 
 ### 💎 **IsItGOLD?**
-An **AI-based mobile app** that detects **precious metals** like **gold** using your phone's camera 📸 and gives an estimate of its value 💰.  
+An **AI-based mobile app** that detects **precious metals** like **gold** using your phone's camera 📸 and gives an estimate of its value 💰.
 [Learn more here](https://isit.gold/)
 
 ### 🧑‍🤝‍🧑 **Contyfy (Offline)**
-A **social media network** that lets **content creators** charge for access to their content either through **monthly subscriptions** or **one-time payments** 💵.  
+A **social media network** that lets **content creators** charge for access to their content either through **monthly subscriptions** or **one-time payments** 💵.
 [Repository](https://github.com/MarvinButh/Contyfy.com)
