@@ -4,7 +4,7 @@
 
 ### 🎯 **About**
 Digital workplace and endpoint engineer working in the **European Commission** service environment, currently assigned to the **EU Anti-Money Laundering Authority (AMLA)** in Frankfurt am Main. 🇪🇺
-I work at **Level 3** on endpoint provisioning, **Microsoft Intune** and **Windows Autopilot** investigations and **PowerShell**-automated secure builds, and I coordinate incidents and services across users, suppliers and specialist infrastructure teams. 🔧
+I work at **Level 3** on endpoint provisioning, **Microsoft Intune** and **Windows Autopilot** investigations and **PowerShell**-automated secure builds, and I coordinate incidents and services across users, vendors and **DG DIGIT** infrastructure, network and logistics teams. 🔧
 I design the processes behind the service too — **13 SOPs**, **52 ServiceNow templates** and a technical onboarding programme that another agent now delivers independently. 📋
 An earlier background in **full-stack software engineering** underpins the automation and tooling I build today. 🚀
 
@@ -22,10 +22,10 @@ An earlier background in **full-stack software engineering** underpins the autom
 
 **Digital Workplace & Endpoint** 🖥️
 - **Windows** · **Microsoft Intune** · **Windows Autopilot** · Device Provisioning · Endpoint Hardening
-- **Microsoft 365** · SharePoint · Teams · OneDrive · Authenticator
+- **Microsoft 365** · SharePoint · Teams · OneDrive · Authenticator · **uniFLOW** Print Services
 
 **Service Management & Coordination** 🎫
-- **ServiceNow** · L2–L3 Incident Resolution · Service Coordination · Structured Escalation
+- **ServiceNow** · L2–L3 Incident Resolution · Service Coordination · **Vendor Management** · Structured Escalation
 - SOP & Template Design · Asset Lifecycle Support · VIP & Business-Critical Support
 
 **Consulting & Enablement** 🗣️
@@ -53,23 +53,24 @@ An earlier background in **full-stack software engineering** underpins the autom
 
 > Formal assignment: IT HUB Agent within the European Commission EUSS environment · Independent consultant via Brayton Luxembourg within an Atos-managed service
 
-- Coordinate services and incidents across **users, suppliers and specialist infrastructure teams**, owning cases from intake through to resolution or structured escalation 🤝
+- Coordinate services and incidents across **users, external vendors and DG DIGIT infrastructure, network and logistics teams**, owning cases from intake through to resolution or structured escalation 🤝
 - Engineer and troubleshoot endpoints at **Level 2–3**: Windows provisioning, **Intune** and **Autopilot** operations, software deployment and root-cause analysis 🔍
 - Designed and authored the **IT HUB operating model** — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
 - Built the technical **onboarding programme** — client-approved 16-slide deck and handout — delivered it to newcomers and handed it over as a repeatable process 🎓
 - Translate operational requirements into **Microsoft 365 solution concepts** covering SharePoint, permissions, secure collaboration and reporting 🗂️
+- Configured and operate the **uniFLOW** print environment, bringing the print vendor and the network provider together to isolate and resolve a fault that was blocking delivery of the contracted print service 🖨️
 - Provide **VIP, meeting-room and business-critical support** alongside clear technical documentation and user guidance ⚡
 - **936 interactions** handled and **784 tickets** resolved as of September 2026 📊
 
 ### 🧩 **IT Consultant & Software Developer**
-**Nterra Integrations GmbH**
-**May 2024 – July 2024**
+**Nterra Integrations GmbH, Darmstadt**
+**May 2024 – July 2024** · Working student
 
 - **Full-stack** software delivery, requirements coordination and **Scrum** facilitation in a consulting environment 🛠️
 
 ### 🖥️ **Software Developer**
 **Pickware GmbH, Darmstadt**
-**September 2023 – March 2024** · Working student
+**September 2023 – March 2024** · Working student, Darmstadt
 
 - Worked on **B2B software** for **e-commerce logistics** 📦
 - **PHP**, **Symfony**, **Vue.js**, **PostgreSQL**, REST APIs, **JEST**, **Shopware** 💻
@@ -112,7 +113,7 @@ An earlier background in **full-stack software engineering** underpins the autom
 
 **Computer Science Studies** 📚
 **Johann Wolfgang Goethe University, Frankfurt am Main**
-**October 2023 – September 2025**
+**October 2023 – September 2025** · paused to take up the AMLA assignment
 
 **Microsoft 365 Endpoint Administrator (MD-102)** — in preparation 🎯
 
