@@ -58,7 +58,7 @@ An earlier background in **full-stack software engineering** underpins the autom
 - Designed and authored the **IT HUB operating model** — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
 - Built the technical **onboarding programme** — client-approved 16-slide deck and handout — delivered it to newcomers and handed it over as a repeatable process 🎓
 - Translate operational requirements into **Microsoft 365 solution concepts** covering SharePoint, permissions, secure collaboration and reporting 🗂️
-- Configured and operate the **uniFLOW** print environment, bringing the print vendor and the network provider together to isolate and resolve a fault that was blocking delivery of the contracted print service 🖨️
+- Configured and operate the **uniFLOW** print environment. Took ownership of a print-service fault open for **over two months** without progress, convened the print vendor and the network provider **within a week**, and led a joint session that resolved it in **45 minutes** — then documented the resolution path and recommended a configuration change to prevent recurrence 🖨️
 - Provide **VIP, meeting-room and business-critical support** alongside clear technical documentation and user guidance ⚡
 - **936 interactions** handled and **784 tickets** resolved as of September 2026 📊
 
