@@ -1,132 +1,76 @@
-# 👨‍💻 **Marvin Buth**
+# Marvin Buth
 
-## 🖥️ **DIGITAL WORKPLACE ENGINEER — ENDPOINT MANAGEMENT & SERVICE COORDINATION**
+**Full-stack software engineer · TypeScript, Node.js & GenAI** · Frankfurt am Main
 
-### 🎯 **About**
-Digital workplace and endpoint engineer working in the **European Commission** service environment, currently assigned to the **EU Anti-Money Laundering Authority (AMLA)** in Frankfurt am Main. 🇪🇺
-I work at **Level 3** on endpoint provisioning, **Microsoft Intune** and **Windows Autopilot** investigations and **PowerShell**-automated secure builds, and I coordinate incidents and services across users, vendors and **DG DIGIT** infrastructure, network and logistics teams. 🔧
-As AMLA’s **first IT HUB agent** I built the service from the ground up — it had no documented procedures when I arrived. I authored the operating model it runs on: **13 SOPs**, **52 ServiceNow templates** and a technical onboarding programme that another agent now delivers independently. 📋
-An earlier background in **full-stack software engineering** underpins the automation and tooling I build today. 🚀
+I build web products end to end in TypeScript, Node.js and PostgreSQL, and put LLMs into them where they hold up in production: strict schemas, retrieval, evaluation and cost caps. Self-employed since 2017; founder of two products I built myself.
+
+**[cv.marvinbuth.dev](https://cv.marvinbuth.dev)** · [two-page CV](https://cv.marvinbuth.dev/pdf/) · [mail@marvinbuth.dev](mailto:mail@marvinbuth.dev) · [isit.gold](https://isit.gold/)
 
 ---
 
-### 📞 **Contact**
-- **Email**: [mail@marvinbuth.dev](mailto:mail@marvinbuth.dev)
-- **CV**: [cv.marvinbuth.dev](https://cv.marvinbuth.dev)
-- **Location**: Frankfurt am Main, Germany 🇩🇪
-- **Phone**: Upon request 📱
+## IsItGOLD?
+
+**Founder & Technical Lead** · [isit.gold](https://isit.gold/) · live on iOS, Android and web
+
+An AI product in production that identifies precious metals in jewellery and ore from guided photos and estimates their value, with subscriptions, a support assistant and an admin dashboard. Flutter, Node.js 20 on Firebase / Google Cloud, Next.js 14 and TypeScript on Vercel.
+
+The model reports facts; code computes money:
+
+```mermaid
+flowchart LR
+  A["Guided photos<br/>detail per shot within token budgets"] --> B["Pre-check<br/>low-cost model rejects unrelated photos"]
+  B --> C["Vision LLM<br/>strict JSON schema · fails closed"]
+  C --> D["Hallmark RAG<br/>cites retrieved entries only"]
+  D --> E["Value in code<br/>spot price · confidence · audit trail"]
+  classDef stage fill:#E9F7F1,stroke:#30996D,color:#15161E
+  classDef key fill:#3CB683,stroke:#257C57,color:#15161E
+  class A,B,C,E stage
+  class D key
+```
+
+- **Retrieval-augmented hallmark resolution.** Production data showed 26.8% of priced scans valued as solid metal although the analysis itself pointed to plating or no gold. I built a RAG step that grounds every read stamp in a curated reference set: hybrid lexical and vector retrieval (OpenAI embeddings, Firestore Vector Search), then a strict-schema LLM call that can only cite retrieved entries. Unambiguous stamps resolve deterministically at no model cost; ambiguous ones add about $0.001 per scan. Projected to remove gross overvaluations on an estimated 4–9% of priced scans; rolling out behind a runtime flag with a record mode to measure it.
+- **Grounded support assistant.** Answers from an admin-maintained knowledge base loaded at runtime, returns structured JSON, routes between a fast and a reasoning model; token metering and per-tier cost caps.
+- **Evaluation and testing.** Live accuracy harness over a labelled image corpus (metal accuracy, value MAPE), golden fixtures, a mock vision server and 90+ backend test suites.
+- **Platform.** Asynchronous scans on Cloud Tasks with an idempotent credit ledger, RevenueCat subscriptions, eBay listing integration with LLM-ranked category suggestions, and an issue-driven GitHub workflow with AI coding agents.
+
+## Tilga
+
+**Founder & Developer** · Sep 2026 – present · closed alpha
+
+A free web app for people in Germany facing several debt collection cases at once: it tracks claims, payments and letters and produces the report a debt counselling centre needs. MVP built in one week. TypeScript monorepo (pnpm, Turborepo), Next.js 16, PostgreSQL on Supabase in Frankfurt, Vercel.
+
+- **Data layer.** PostgreSQL schema with row level security as the only API, 10 versioned SQL migrations, diff-sync of the user's document to the database.
+- **Privacy by design.** An offline file mode encrypts all data in the browser (AES-GCM, PBKDF2-derived key); OCR of letters runs on the device with tesseract.js, so photos never leave the browser.
+- **Quality.** Zod validation, Vitest unit tests, Playwright end-to-end tests with a committed screenshot set on every pull request, conventional commits with a generated changelog.
 
 ---
 
-### 💼 **Skills**
+## Experience
 
-**Digital Workplace & Endpoint** 🖥️
-- **Windows** · **Microsoft Intune** · **Windows Autopilot** · Device Provisioning · Endpoint Hardening
-- **Microsoft 365** · SharePoint · Teams · OneDrive · Authenticator · **uniFLOW** Print Services
+| When | Role | Where |
+|---|---|---|
+| Sep 2025 – present | Digital Workplace Engineer (Level 3), freelance | EU Anti-Money Laundering Authority (AMLA), Frankfurt |
+| Aug 2017 – present | Freelance Software Engineer & IT Consultant | Self-employed, Frankfurt |
+| May – Jul 2024 | IT Consultant & Software Developer (working student) | Nterra Integrations GmbH, Darmstadt |
+| Sep 2023 – Mar 2024 | Software Developer (working student) | Pickware GmbH, Darmstadt |
+| Jul – Sep 2022 | Full-Stack Developer (client project) | M.F.G. Pengueen UG |
+| Jan 2020 – Jan 2021 | Software Engineer & Project Manager (client project) | Contyfy Network UG |
+| Mar 2019 | Trainee, Innovation Team | European Central Bank, Frankfurt |
 
-**Service Management & Coordination** 🎫
-- **ServiceNow** · L2–L3 Incident Resolution · Service Coordination · **Vendor Management** · Structured Escalation
-- SOP & Template Design · **Asset & Inventory Management** · Hardware Demand Planning · VIP & Business-Critical Support
+At AMLA I was the authority's first IT HUB agent: I built the service from zero and wrote the operating model it runs on (13 standard operating procedures, 52 ServiceNow templates), automated a hardened workstation build in PowerShell with 32 verified security controls, and have resolved 784 tickets with 100% positive end-client satisfaction.
 
-**Consulting & Enablement** 🗣️
-- Requirements Analysis · Stakeholder Coordination · Microsoft 365 Solution Concepts
-- Process Design · Technical Documentation · Onboarding & User Enablement
+## Skills
 
-**Software Engineering & Automation** 🧑‍💻
-- **PowerShell** · **TypeScript** · **JavaScript** · **Node.js** · **React** · **Vue.js**
-- **PHP** · **Symfony** · **Python** · REST APIs · **PostgreSQL** · **Docker** · **Git**
+**GenAI engineering** · LLM integration (OpenAI Responses API) · retrieval-augmented generation · structured outputs with strict JSON schemas · output validation and retries · model routing · embeddings and Firestore Vector Search · hybrid lexical and vector retrieval · token metering and cost caps · accuracy evaluation on labelled data
 
----
+**Languages & frameworks** · TypeScript · JavaScript · Node.js · NestJS · React · Next.js · Angular · Vue.js · Flutter / Dart · PHP / Symfony · Python · Java
 
-### 🌍 **Languages**
-- **German**: Native 🇩🇪
-- **English**: Advanced professional proficiency 🗣️
-- **French**: Professional working proficiency 🇫🇷
+**Data & cloud** · PostgreSQL · Firestore · MongoDB · Google Cloud / Firebase (Cloud Functions, Cloud Tasks, App Check) · Vercel · AWS · Docker · REST · OAuth · WebSockets
 
----
+**Practice** · TDD · golden fixtures · Scrum · Kanban · release planning · issue-driven delivery with AI coding agents · security and privacy by design
 
-## 💼 **Professional Experience**
+## Languages and education
 
-### 🏛️ **Digital Workplace Engineer — Endpoint Management & Service Coordination**
-**European Union Anti-Money Laundering Authority (AMLA), Frankfurt am Main**
-**September 2025 – Present** · Freelance
+German (native) · English (advanced professional) · French (professional working)
 
-> First IT HUB agent appointed at AMLA · Formal assignment: IT HUB Agent within the European Commission EUSS environment · Independent consultant via Brayton Luxembourg within an Atos-managed service
-
-- Coordinate services and incidents across **users, external vendors and DG DIGIT infrastructure, network and logistics teams**, owning cases from intake through to resolution or structured escalation 🤝
-- Engineer and troubleshoot endpoints at **Level 2–3**: Windows provisioning, **Intune** and **Autopilot** operations, software deployment and root-cause analysis 🔍
-- Established the **IT HUB operating model** for a service that had **no documented procedures** in place — **13 standard operating procedures** and **52 ServiceNow templates**; v1.0 presented September 2026, in team review 📋
-- Built the technical **onboarding programme** — client-approved **16-slide deck** and handout — delivered it to newcomers and handed it over as a repeatable process; a second agent has since delivered a full onboarding independently from the materials 🎓
-- Translate operational requirements into **Microsoft 365 solution concepts** covering SharePoint, permissions, secure collaboration and reporting 🗂️
-- Configured and operate the **uniFLOW** print environment. Took ownership of a print-service fault open for **over two months** without progress, convened the print vendor and the network provider **within a week**, and led a joint session that resolved it in **45 minutes** — then documented the resolution path and recommended a configuration change to prevent recurrence 🖨️
-- Provide **VIP, meeting-room and business-critical support** alongside clear technical documentation and user guidance ⚡
-- Built and own the **device inventory** covering every AMLA user device and the mobile fleet — still the working record in daily use — and advise on when to order replacement hardware 📦
-- Run **mobile device onboarding** and authored its standard operating procedure, currently in testing 📱
-- **936 interactions** handled and **784 tickets** resolved as of September 2026 — with a **100% positive satisfaction rating** from the end client, consistently reflected in service discussions with **DG DIGIT** and confirmable there on request 📊
-
-### 🧩 **IT Consultant & Software Developer**
-**Nterra Integrations GmbH, Darmstadt**
-**May 2024 – July 2024** · Working student
-
-- **Full-stack** software delivery, requirements coordination and **Scrum** facilitation in a consulting environment 🛠️
-
-### 🖥️ **Software Developer**
-**Pickware GmbH, Darmstadt**
-**September 2023 – March 2024** · Working student, Darmstadt
-
-- Worked on **B2B software** for **e-commerce logistics** 📦
-- **PHP**, **Symfony**, **Vue.js**, **PostgreSQL**, REST APIs, **JEST**, **Shopware** 💻
-- Production debugging, **code reviews** and **unit testing** 💪
-- **ERP synchronisation** services and cross-functional collaboration 🛠️
-
-### 💻 **Software Engineer**
-**M.F.G. Pengueen UG, Brandenburg**
-**July 2022 – September 2022**
-
-- Developed **scalable web applications** using **JavaScript**, **React** and **PostgreSQL** 🔥
-- Conducted **code reviews** and adhered to best practices for **clean code** ✨
-
-### 🛠️ **Software Engineer & Project Manager**
-**Contyfy Network UG, Remote**
-**January 2020 – January 2021**
-
-- **IT planning and architecture**, **server infrastructure**, **security** and **encryption** 🔒
-- Vendor coordination and technical budgeting for the platform build 💰
-- Managed customer relationships and communicated technical needs to **non-technical stakeholders** 🗣️
-
-### 🏦 **Trainee, Innovation Team**
-**European Central Bank, Frankfurt am Main**
-**11 – 22 March 2019** · Traineeship
-
-- Programmed **"knowledge tree"** visualisations of information in **Java** and **Node.js** 🌳
-- Visualisations were used in presentations within the **ECB** and the **euro area central bank community** 💼
-- *Letter of reference available on request* 📄
-
-### 🧑‍💻 **Freelance IT Consultant & Software Engineer**
-**Self-employed, Frankfurt am Main**
-**August 2017 – Present** · Freelance
-
-- Independent delivery of **web, mobile, cloud, API and automation** solutions 🌐
-- Ownership of technical delivery, client communication and project steering 📊
-
----
-
-## 🎓 **Education & Certifications**
-
-**Computer Science Studies** 📚
-**Johann Wolfgang Goethe University, Frankfurt am Main**
-**October 2023 – September 2025** · paused to take up the AMLA assignment
-
-**Microsoft 365 Endpoint Administrator (MD-102)** — in preparation 🎯
-
----
-
-## 🚀 **Projects**
-
-### 💎 **IsItGOLD?**
-An **AI-based mobile app** that detects **precious metals** like **gold** using your phone's camera 📸 and gives an estimate of its value 💰.
-[Learn more here](https://isit.gold/)
-
-### 🧑‍🤝‍🧑 **Contyfy (Offline)**
-A **social media network** that lets **content creators** charge for access to their content either through **monthly subscriptions** or **one-time payments** 💵.
-[Repository](https://github.com/MarvinButh/Contyfy.com)
+Computer Science studies, Goethe University Frankfurt am Main, Oct 2023 – Sep 2025, paused to take up the AMLA assignment.
